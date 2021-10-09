@@ -1,7 +1,7 @@
 Enterprise and Infrastructure Security
 Module 1 Quiz - (Correct Answers)
 Question 1 
-*Which of the following is not an example of social engineering?* 
+# Which of the following is not an example of social engineering? 
 Demanding Billing information from your ISP
 Question 2
 ### Phishing often takes advantage of which of the following situations, characteristics, or weaknesses
