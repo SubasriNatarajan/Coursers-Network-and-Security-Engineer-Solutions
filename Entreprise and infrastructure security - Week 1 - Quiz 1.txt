@@ -1,0 +1,46 @@
+Enterprise and Infrastructure Security
+Module 1 Quiz - (Correct Answers)
+Question 1 
+Which of the following is not an example of social engineering? 
+Demanding Billing information from your ISP
+Question 2
+Phishing often takes advantage of which of the following situations, characteristics, or weaknesses
+All of the above
+Question 3
+Spear phishing differs from phishing in which of the following ways?
+Spear phishing targets specific people
+Question 4
+Reducing phishing attack risk is best done by which of the following?  
+Spending time with staff explaining the attack
+Question 5
+Which of the following is a true statement?
+Expert firewall administrators need security awareness information
+Question 6
+Governance, risk, and compliance (GRC) platforms are excellent for which of the following tasks in the enterprise?
+all of the above
+Question 7
+The NIST Framework for Cyber Security is useful for which of the following reasons?
+It comes from a reputable organization with wide reach
+Question 8
+Which of the following is true?
+None of the above 
+Question 9 
+Security requirement audits are most useful for which of the following?
+Detecting gaps against a formal framework
+Question 10
+Which of the following is a true statement?
+GRS Includes IDS, Assessments benefit from GRC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
